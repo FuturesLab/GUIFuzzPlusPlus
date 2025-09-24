@@ -12,7 +12,7 @@ This work is presented in our paper **[GUIFuzz++: Unleashing Grey-box Fuzzing on
 * [VM Image](#vm-image)
 * [Bug Trophy Case](#bug-trophy-case)
 
-<br><img align="center" src=".guifuzz++.png" alt="GUIFuzz++ workflow" width="100%"/>
+<br><img align="center" src=".guifuzzplusplus.png" alt="GUIFuzz++ workflow" width="100%"/>
 <br>
 <br><img align="center" src=".fuzzing.gif" alt="GUIFuzz++ in action" width="100%"/>
 
