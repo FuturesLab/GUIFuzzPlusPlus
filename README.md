@@ -171,7 +171,7 @@ Then follow target repo instructions to build, swap `CC` and `CXX` compilers wit
 #### Example: Umbrello
 Umbrello is easiest to setup with Qt5, you'll need these dependencies:
 ```
-sudo apt install qtbase5-dev qttools5-dev qttools5-dev-tools libkf5coreaddons-dev libkf5i18n-dev libkf5kio-dev libkf5archive-dev libkf5completion-dev libkf5config-dev libkf5crash-dev libkf5doctools-dev libkf5iconthemes-dev libkf5texteditor-dev libkf5widgetsaddons-dev libkf5windowsystem-dev libkf5xmlgui-dev
+sudo apt install qtbase5-dev qttools5-dev qttools5-dev-tools libkf5coreaddons-dev libkf5i18n-dev libkf5kio-dev libkf5archive-dev libkf5completion-dev libkf5config-dev libkf5crash-dev libkf5doctools-dev libkf5iconthemes-dev libkf5texteditor-dev libkf5widgetsaddons-dev libkf5windowsystem-dev libkf5xmlgui-dev libqt5svg5-dev clang libclang-18-dev libxslt1.1 libxslt1-dev
 ```
 
 Clone and build:
