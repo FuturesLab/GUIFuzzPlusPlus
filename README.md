@@ -2,7 +2,7 @@
 
 <img align="right" src=".logo.png" alt="GUIFuzz++ logo" width="240" height="240"/>
 
-This repository provides the source code for **GUIFuzz++**: a prototype grey-box fuzzer for GUI-based applications on Linux.
+This repository provides the source code for **GUIFuzz++**: a prototype grey-box fuzzer for GUI-based applications on Linux. (Now [integrated](https://github.com/AFLplusplus/AFLplusplus/tree/stable/custom_mutators/guifuzz) into AFL++!)
 
 This work is presented in our paper **[GUIFuzz++: Unleashing Grey-box Fuzzing on Desktop Graphical User Interfacing Applications](https://futures.cs.utah.edu/papers/25ASE.pdf)**, appearing in the 2025 IEEE/ACM International Conference on Automated Software Engineering (ASE'25).
 
